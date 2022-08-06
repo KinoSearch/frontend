@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kirillsaint.github.io/kinosearch_v2/static/css/main.4b0d956a.css",
+    "main.js": "/kirillsaint.github.io/kinosearch_v2/static/js/main.f0407824.js",
+    "static/js/293.f1c58a44.chunk.js": "/kirillsaint.github.io/kinosearch_v2/static/js/293.f1c58a44.chunk.js",
+    "static/js/370.bc6e99ed.chunk.js": "/kirillsaint.github.io/kinosearch_v2/static/js/370.bc6e99ed.chunk.js",
+    "static/js/787.95102816.chunk.js": "/kirillsaint.github.io/kinosearch_v2/static/js/787.95102816.chunk.js",
+    "index.html": "/kirillsaint.github.io/kinosearch_v2/index.html",
+    "main.4b0d956a.css.map": "/kirillsaint.github.io/kinosearch_v2/static/css/main.4b0d956a.css.map",
+    "main.f0407824.js.map": "/kirillsaint.github.io/kinosearch_v2/static/js/main.f0407824.js.map",
+    "293.f1c58a44.chunk.js.map": "/kirillsaint.github.io/kinosearch_v2/static/js/293.f1c58a44.chunk.js.map",
+    "370.bc6e99ed.chunk.js.map": "/kirillsaint.github.io/kinosearch_v2/static/js/370.bc6e99ed.chunk.js.map",
+    "787.95102816.chunk.js.map": "/kirillsaint.github.io/kinosearch_v2/static/js/787.95102816.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0d956a.css",
+    "static/js/main.f0407824.js"
+  ]
+}
