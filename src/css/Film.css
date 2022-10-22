@@ -1,0 +1,13 @@
+.films .vkuiSubhead {
+	max-width: 128px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.films-grid .vkuiSubhead {
+	max-width: 128px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
