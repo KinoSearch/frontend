@@ -208,7 +208,9 @@ function Film({ onClose, watch }: { onClose: () => void; watch: () => void }) {
 								<SimpleCell>
 									<InfoRow header="Жанр">
 										{film?.genres
-											? ucFirst(film?.genres[0].genre)
+											? film?.genres.length !== 0
+												? ucFirst(film?.genres[0].genre)
+												: "Неизвестно"
 											: "Неизвестно"}
 									</InfoRow>
 								</SimpleCell>
