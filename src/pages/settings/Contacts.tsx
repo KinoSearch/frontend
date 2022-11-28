@@ -47,7 +47,7 @@ function Contacts({ onClose }: { onClose: () => void }) {
 					Telegram канал
 				</SimpleCell>
 				<SimpleCell
-					onClick={() => openLink("https://t.me/kirillsaint")}
+					onClick={() => openLink("https://t.me/nuwql")}
 					subtitle="@kirillsaint"
 					before={<Icon28HelpCircleOutline />}
 				>
